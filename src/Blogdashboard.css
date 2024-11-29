@@ -1,0 +1,28 @@
+nav.blog {
+    background-color: #5386bd; 
+    color: white; 
+    padding: 10px 20px;
+    text-align: center;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  /* form.css */
+
+/* Center the form and add background color */
+.formd {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    min-height: 100vh; /* Full viewport height */
+    background-color: #f0f8ff; /* Light blue background */
+  }
+  
+  /* Form styling */
+  form {
+    background-color: #1b8dac; /* White background for the form */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  }
+  
